@@ -1,5 +1,1 @@
-{
-  "buildCommand": "npm run deploy",
-  "devCommand": "npm run dev",
-  "framework": "nextjs"
-}
+{"version": 1}
