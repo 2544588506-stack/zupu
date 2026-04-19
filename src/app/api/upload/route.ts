@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { writeFile, mkdir } from 'fs/promises';
-import path from 'path';
+
+export const runtime = 'edge';
 
 export async function POST(request: NextRequest) {
   try {
