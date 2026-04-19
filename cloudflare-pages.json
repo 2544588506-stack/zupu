@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "buildCommand": "npx @cloudflare/next-on-pages",
+  "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "framework": "next"
 }
